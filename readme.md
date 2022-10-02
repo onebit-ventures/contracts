@@ -1,0 +1,3 @@
+#ONEBIT CONTRACT
+## BSC MAINNET
+https://bscscan.com/address/0x5db14f67650d2184D0247dBf5901FEc58b9A6Bd2#code
